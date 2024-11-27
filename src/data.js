@@ -1,7 +1,7 @@
 const questions = [
   {
     id: 1,
-    title: "Popular cuisines near me",
+    title: "Akarsh nearby restuarants",
     infos: [
       "Bakery food near me • ",
       "Beverages food near me • ",
